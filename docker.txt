@@ -1,0 +1,2 @@
+Docker é um gerenciador de contauners.
+Esta linha foi inserida no Github.
